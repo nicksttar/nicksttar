@@ -40,5 +40,7 @@
   <img src="https://docs.aiogram.dev/en/dev-3.x/_static/logo.png" height="40" alt="mysql logo"/>
   <img width="12" />
   <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" height="40" border-radius="50%" alt="mysql logo" />
-  
-###
+
+<h2 align="left">Portfolio Page</h2>
+in progress
+<!-- ### -->
