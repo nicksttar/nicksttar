@@ -10,4 +10,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 28.07.22<br>📚 I'm currently learning JavaScript.<br>🎯 Goals: Work with cool project.<br>🎲 Fun fact: Bad Dota player :)</p>
+<p align="left">✨ Creating bugs since 28.07.22<br>📚 I'm currently learning JavaScript.<br>🎯 Goals: Work with cool project.<br>🎲 Fun fact: Bad Dota player :)</p>\
+
+###
